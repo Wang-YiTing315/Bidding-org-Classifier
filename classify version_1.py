@@ -3,7 +3,7 @@ import requests
 from tqdm import tqdm
 import time
 
-API_KEY = "your deepseek api"
+API_KEY = "your deepseek api key"
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 def get_categories(purchaser_names):
