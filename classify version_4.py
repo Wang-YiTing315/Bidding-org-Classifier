@@ -8,7 +8,7 @@ from collections import Counter
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-API_KEY = "sk-4f18b29caeb149f5a3d4ed08b4d6d886"
+API_KEY = "your deepseek api key"
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 创建带有重试机制的session
