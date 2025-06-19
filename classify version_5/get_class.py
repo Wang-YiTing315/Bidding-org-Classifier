@@ -11,7 +11,7 @@ import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 
-API_KEY = "sk-4f18b29caeb149f5a3d4ed08b4d6d886"
+API_KEY = "your deepseek api key"
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 线程锁，用于控制API请求频率
