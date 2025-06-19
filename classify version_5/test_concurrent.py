@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 并发功能测试脚本
 用于验证get_class.py和classify.py的并发处理功能
